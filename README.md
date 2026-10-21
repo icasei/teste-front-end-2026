@@ -4,7 +4,7 @@ Desenvolver uma aplicação HTML5.
 ## Instruções
 - Siga as especificações abaixo.
 - Crie um README com as instruções para compilar, testar e rodar o projeto.
-- O link do repositório deverá ser enviado para o e-mail frontend@icasei.com.br com o título **Teste FrontEnd 2024**.
+- O link do repositório deverá ser enviado para o e-mail frontend@icasei.com.br com o título **Teste FrontEnd 2026**.
 
 ## Especificações funcionais da aplicação
 Criar duas aplicações micro-frontend (no wireframe, mf_drawer e mf_videos)
